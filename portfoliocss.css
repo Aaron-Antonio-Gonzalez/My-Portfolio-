@@ -22,3 +22,17 @@ img{
 .about{
     background-color: white;
 }
+.form-control{
+    width: 600px;
+
+}
+
+.form-label{
+    font-size: large;
+    font-weight: bold;
+}
+
+.mb-3{
+    justify-content: center;
+    
+}
