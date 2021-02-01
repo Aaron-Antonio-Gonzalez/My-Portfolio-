@@ -1,5 +1,5 @@
 body{
-    background-image: url("background-image.jpg");
+    background-color: rgb(189, 189, 189);
 }
 
 
@@ -30,9 +30,4 @@ img{
 .form-label{
     font-size: large;
     font-weight: bold;
-}
-
-.mb-3{
-    justify-content: center;
-    
 }
